@@ -1,0 +1,2 @@
+com/example/kmmsample/shared/BuildConfig.java
+ com.example.kmmsample.shared.BuildConfig

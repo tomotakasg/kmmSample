@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+MERGED from [:shared] /Users/tomotakasuga/KmmSample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6abac69fac036dc225382245f52039fd/fragment-ktx-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/a992d143aad14559e9fa8e5c5b62eda5/activity-ktx-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/e89544343b209f94ee6a47a229604782/lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/93121c429d90b00c997878f4ef4a52ff/lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f149acfafe242827126056cb4d7ac9ad/core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/2e2048428584a5f6f10dcc4cfd97ce48/lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/1042e354a25154ffba0e744a011b7cac/lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6a6dc9ff9580689875376040105ef879/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/3cabaf9b79157a9693f1a7e7c4943ff7/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f1938571ff9500097625ff12f4e6e886/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/cd4a495d83e6c0da19a8ca8c2544806b/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/a2504efdfaf33bea55ac871a6398cea9/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/bacf12ff28d502c2efcf7e47fe62b0c4/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/734861c879a0cc2152aa94b780f97af3/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/090d28d2229e90e041a65db08144b843/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/2a5e5c0785d3e90e4cb35453408418ca/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/713601cdd78712d4cf0a6802e9e37555/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c2080db6a4019a708fd46e702ee7aea7/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/2bfd800b1805a92b0729ca6ceed48cde/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/7f33340bae22823f6c6d07c0f1625fc9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/1feaa643acd6be0a1013bc376d34a439/fragment-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/54ca99fd3bcd741ba2427ba0440df668/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c39af6159cb16df40e4080ba14151e18/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f2c09dbc42f615708cba0013d4f6c2a4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/4e6549753e9b5cf1a441e9ce06b25f2c/activity-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6c8e8ba9757c0d7213e04e8699f40a28/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6949e13699b2156635b5aef3fc60aadc/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/67f1ba62ad523fb86cba91794ec3cae8/lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/ca7ea26e5220512f2ae6eaba7faf51ed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/8f2f91efd5cbedba03c107e76c869823/lifecycle-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/d821e3fe1f30af6f31e89521543690be/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/56e8e4a180b80229f4849495af7b289e/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c967f29483860f548fe4a053a91ae698/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/d2e2af14d452fb0c8b0f3b60a7056cb2/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/138d74c22cd3308af181e1c1ddb6ce93/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/8cba60c261249461477d4e4092bbec64/lifecycle-livedata-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/5f00a5febf6bac13d2752a69bab4730a/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/71138b031ee11487371843df27b4e86a/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/11be95731d96037387e7af8ef3244c60/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/05c73cdb6107a78a31f84c1e5458cb15/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c7be0ee6f8e99557a9a5eebe6b0c8ff0/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:70-112
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:4:5-14:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/3cabaf9b79157a9693f1a7e7c4943ff7/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/3cabaf9b79157a9693f1a7e7c4943ff7/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f1938571ff9500097625ff12f4e6e886/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f1938571ff9500097625ff12f4e6e886/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/713601cdd78712d4cf0a6802e9e37555/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/713601cdd78712d4cf0a6802e9e37555/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6c8e8ba9757c0d7213e04e8699f40a28/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6c8e8ba9757c0d7213e04e8699f40a28/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/d821e3fe1f30af6f31e89521543690be/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/d821e3fe1f30af6f31e89521543690be/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c967f29483860f548fe4a053a91ae698/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c967f29483860f548fe4a053a91ae698/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6c8e8ba9757c0d7213e04e8699f40a28/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:6:13-39
+	android:allowBackup
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:5:13-40
+	android:theme
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:7:13-44
+activity#com.example.kmmsample.androidApp.MainActivity
+ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:8:9-13:20
+	android:name
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:8:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml:11:27-74
+uses-sdk
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/tomotakasuga/KmmSample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/tomotakasuga/KmmSample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6abac69fac036dc225382245f52039fd/fragment-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6abac69fac036dc225382245f52039fd/fragment-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/a992d143aad14559e9fa8e5c5b62eda5/activity-ktx-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/a992d143aad14559e9fa8e5c5b62eda5/activity-ktx-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/e89544343b209f94ee6a47a229604782/lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/e89544343b209f94ee6a47a229604782/lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/93121c429d90b00c997878f4ef4a52ff/lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/93121c429d90b00c997878f4ef4a52ff/lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f149acfafe242827126056cb4d7ac9ad/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f149acfafe242827126056cb4d7ac9ad/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/2e2048428584a5f6f10dcc4cfd97ce48/lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/2e2048428584a5f6f10dcc4cfd97ce48/lifecycle-livedata-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/1042e354a25154ffba0e744a011b7cac/lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/1042e354a25154ffba0e744a011b7cac/lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6a6dc9ff9580689875376040105ef879/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6a6dc9ff9580689875376040105ef879/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/3cabaf9b79157a9693f1a7e7c4943ff7/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/3cabaf9b79157a9693f1a7e7c4943ff7/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f1938571ff9500097625ff12f4e6e886/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f1938571ff9500097625ff12f4e6e886/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/cd4a495d83e6c0da19a8ca8c2544806b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/cd4a495d83e6c0da19a8ca8c2544806b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/a2504efdfaf33bea55ac871a6398cea9/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/a2504efdfaf33bea55ac871a6398cea9/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/bacf12ff28d502c2efcf7e47fe62b0c4/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/bacf12ff28d502c2efcf7e47fe62b0c4/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/734861c879a0cc2152aa94b780f97af3/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/734861c879a0cc2152aa94b780f97af3/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/090d28d2229e90e041a65db08144b843/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/090d28d2229e90e041a65db08144b843/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/2a5e5c0785d3e90e4cb35453408418ca/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/2a5e5c0785d3e90e4cb35453408418ca/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/713601cdd78712d4cf0a6802e9e37555/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/713601cdd78712d4cf0a6802e9e37555/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c2080db6a4019a708fd46e702ee7aea7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c2080db6a4019a708fd46e702ee7aea7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/2bfd800b1805a92b0729ca6ceed48cde/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/2bfd800b1805a92b0729ca6ceed48cde/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/7f33340bae22823f6c6d07c0f1625fc9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/7f33340bae22823f6c6d07c0f1625fc9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/1feaa643acd6be0a1013bc376d34a439/fragment-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/1feaa643acd6be0a1013bc376d34a439/fragment-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/54ca99fd3bcd741ba2427ba0440df668/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/54ca99fd3bcd741ba2427ba0440df668/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c39af6159cb16df40e4080ba14151e18/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c39af6159cb16df40e4080ba14151e18/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f2c09dbc42f615708cba0013d4f6c2a4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/f2c09dbc42f615708cba0013d4f6c2a4/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/4e6549753e9b5cf1a441e9ce06b25f2c/activity-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.1] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/4e6549753e9b5cf1a441e9ce06b25f2c/activity-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6c8e8ba9757c0d7213e04e8699f40a28/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6c8e8ba9757c0d7213e04e8699f40a28/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6949e13699b2156635b5aef3fc60aadc/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/6949e13699b2156635b5aef3fc60aadc/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/67f1ba62ad523fb86cba91794ec3cae8/lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/67f1ba62ad523fb86cba91794ec3cae8/lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/ca7ea26e5220512f2ae6eaba7faf51ed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/ca7ea26e5220512f2ae6eaba7faf51ed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/8f2f91efd5cbedba03c107e76c869823/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/8f2f91efd5cbedba03c107e76c869823/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/d821e3fe1f30af6f31e89521543690be/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/d821e3fe1f30af6f31e89521543690be/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/56e8e4a180b80229f4849495af7b289e/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/56e8e4a180b80229f4849495af7b289e/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c967f29483860f548fe4a053a91ae698/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c967f29483860f548fe4a053a91ae698/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/d2e2af14d452fb0c8b0f3b60a7056cb2/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/d2e2af14d452fb0c8b0f3b60a7056cb2/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/138d74c22cd3308af181e1c1ddb6ce93/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/138d74c22cd3308af181e1c1ddb6ce93/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/8cba60c261249461477d4e4092bbec64/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/8cba60c261249461477d4e4092bbec64/lifecycle-livedata-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/5f00a5febf6bac13d2752a69bab4730a/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/5f00a5febf6bac13d2752a69bab4730a/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/71138b031ee11487371843df27b4e86a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/71138b031ee11487371843df27b4e86a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/11be95731d96037387e7af8ef3244c60/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/11be95731d96037387e7af8ef3244c60/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/05c73cdb6107a78a31f84c1e5458cb15/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/05c73cdb6107a78a31f84c1e5458cb15/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c7be0ee6f8e99557a9a5eebe6b0c8ff0/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/tomotakasuga/.gradle/caches/transforms-2/files-2.1/c7be0ee6f8e99557a9a5eebe6b0c8ff0/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/tomotakasuga/KmmSample/androidApp/src/main/AndroidManifest.xml
